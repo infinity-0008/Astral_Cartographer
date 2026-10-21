@@ -1,0 +1,24 @@
+{
+  "name": "astral_cartographer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infinity-0008/Astral_Cartographer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/infinity-0008/Astral_Cartographer/issues"
+  },
+  "homepage": "https://github.com/infinity-0008/Astral_Cartographer#readme",
+  "devDependencies": {
+    "prettier": "^3.9.10"
+  }
+}
