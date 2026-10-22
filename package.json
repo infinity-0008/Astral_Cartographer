@@ -20,5 +20,8 @@
   "homepage": "https://github.com/infinity-0008/Astral_Cartographer#readme",
   "devDependencies": {
     "prettier": "^3.9.10"
+  },
+  "dependencies": {
+    "yauzl": "^3.4.0"
   }
 }
